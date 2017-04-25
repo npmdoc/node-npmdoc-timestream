@@ -1,4 +1,7 @@
-# api documentation for  [timestream (v0.1.1)](https://github.com/brycebaril/timestream)  [![npm package](https://img.shields.io/npm/v/npmdoc-timestream.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-timestream) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-timestream.svg)](https://travis-ci.org/npmdoc/node-npmdoc-timestream)
+# npmdoc-timestream
+
+#### basic api documentation for  [timestream (v0.1.1)](https://github.com/brycebaril/timestream)  [![npm package](https://img.shields.io/npm/v/npmdoc-timestream.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-timestream) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-timestream.svg)](https://travis-ci.org/npmdoc/node-npmdoc-timestream)
+
 #### A suite of tools for working with objectMode streams of time-ordered data. (e.g. tsdb records)
 
 [![NPM](https://nodei.co/npm/timestream.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/timestream)
@@ -67,7 +70,8 @@
     "scripts": {
         "test": "node test/"
     },
-    "version": "0.1.1"
+    "version": "0.1.1",
+    "bin": {}
 }
 ```
 
